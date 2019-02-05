@@ -1,2 +1,2 @@
 # simpleFlexboxLayout
-Simple Website Layout With Flexbo
+Simple Website Layout With Flexbox
